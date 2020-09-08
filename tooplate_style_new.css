@@ -91,9 +91,12 @@ ul.list_bullet li a:hover { color: #240000 }
 }
 #tooplate_middle {
 	padding: 30px;
-	margin-bottom: 100px;
+	margin-bottom: 20px;
+	float: left;
+	margin-top: 10px;
 	background:url(images/tooplate_middle.jpg) no-repeat
 }
+
 #tooplate_main {
 	padding: 0 30px 80px;
 }
